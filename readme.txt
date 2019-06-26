@@ -3,13 +3,13 @@ Contributors: inventivogermany
 Plugin Name:  Automated Related Posts by Tags | inventivo
 Plugin URI:   https://www.inventivo.de/wordpress-agentur/wordpress-plugins
 Description:  Display related posts by tag in an automated manner
-Version:      0.0.1
+Version:      1.0.0
 Author:       Nils Harder
 Author URI:   https://www.inventivo.de
 Tags: related posts
 Requires at least: 3.0
 Tested up to: 5.2.2
-Stable tag: 0.0.1
+Stable tag: 1.0.0
 Text Domain: inventivo-relatedpostsbytag
 Domain Path: /languages
 License:      GPL2

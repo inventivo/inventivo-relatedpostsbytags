@@ -1,3 +1,5 @@
+![Illustration: Automated Related Posts by Tags | inventivo](https://ps.w.org/related-posts-by-tags-inventivo/assets/banner-1544x500.jpg)
+
 # Automated Related Posts by Tags  | inventivo
 
 This plugin generates related posts for your articles using an automated gathering of related posts by the tags defined in your article.
@@ -13,7 +15,7 @@ Visit our <a href="https://www.inventivo.de/wordpress-agentur/wordpress-plugins"
 **Get your copy of the "Automated Related Posts by Tags" Plugin now!**
 
 ## Screenshots
-
+![Illustration: Automated Related Posts by Tags | inventivo](https://ps.w.org/related-posts-by-tags-inventivo/assets/screenshot-1.jpg)
 
 ### Prerequisites
 
