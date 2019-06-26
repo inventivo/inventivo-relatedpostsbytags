@@ -1,0 +1,39 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Related Posts by Tags | inventivo\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-03-15 15:08+0000\n"
+"PO-Revision-Date: 2019-03-15 15:16+0000\n"
+"Last-Translator: Nils Harder <nils.harder@inventivo.de>\n"
+"Language-Team: German (Formal)\n"
+"Language: de_DE_formal\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.2.1; wp-5.1.1"
+
+#. Description of the plugin
+msgid "Display the EU Cookie Notice in a popup (EU Cookie Guideline)"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://www.inventivo.de"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://www.inventivo.de/wordpress-agentur/wordpress-plugins"
+msgstr ""
+
+#. Author of the plugin
+msgid "Nils Harder"
+msgstr ""
+
+#: inventivo-relatedposts.php:128
+msgid "Related posts"
+msgstr "Das könnte dich auch interessieren"
+
+#. Name of the plugin
+msgid "Related Posts by Tags | inventivo"
+msgstr ""
